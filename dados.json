@@ -1,0 +1,30 @@
+[
+{
+	"id":1,
+	"texto":"a ABC Comércio S.A., registrada sob o CNPJ 12.345.678/0001-99, fechou um contrato com a XYZ Indústria Ltda, CNPJ 23.456.789/0001-88, no valor total de $R 1.234.567,89. Esse contrato prevê o fornecimento de equipamentos para a nova unidade fabril da XYZ. O pagamento será dividido em três parcelas: a primeira no valor de $R 411.522,63, a segunda de $R 411.522,63 e a terceira de $R 411.522,63. Para mais detalhes sobre o contrato, acesse www.abcnovidade.com.br/contrato-xyz. Além disso, o CPF 123.456.789-00 foi associado como responsável técnico pelo projeto, conforme consta no documento assinado."
+},
+{
+	"id":2,
+	"texto":"João da Silva, CPF 987.654.321-99, adquiriu produtos eletrônicos no valor de $R 5.234,56 através do site www.eletrocompra.com. A compra inclui um notebook, um smartphone e acessórios. A compra foi registrada sob a nota fiscal nº 123456 emitida pela empresa Tech Store, CNPJ 34.567.890/0001-11. O pagamento foi efetuado via cartão de crédito em três parcelas de $R 1.744,85 cada. Para rastrear o pedido, acesse www.eletrocompra.com/rastreio/123456."
+},
+{
+	"id":3,
+	"texto":"A organização sem fins lucrativos Ajuda ao Próximo, CNPJ 45.678.901/0001-22, recebeu uma doação anônima no valor de $R 10.000,00. Essa quantia será utilizada para a compra de mantimentos e medicamentos que serão distribuídos entre as famílias carentes cadastradas. O doador, identificado apenas pelo CPF 456.789.123-00, pediu para que 50% da doação fosse destinada à compra de alimentos básicos, enquanto o restante será usado para medicamentos. A prestação de contas será disponibilizada no site www.ajudaoproximo.org/prestacao2024."
+},
+{
+	"id":4,
+	"texto":"A empresa de consultoria Financeira e Assessoria Ltda, CNPJ 56.789.012/0001-33, emitiu uma fatura de $R 25.678,90 referente aos serviços prestados para o cliente José de Souza, CPF 123.456.789-10. A fatura inclui a consultoria financeira completa e a elaboração de um plano de investimentos personalizado. O pagamento deverá ser efetuado até o dia 15 do próximo mês, diretamente na conta bancária informada no contrato. Detalhes adicionais sobre o serviço prestado podem ser encontrados em www.financeira.com/contratos/josesouza."
+},
+{
+	"id":5,
+	"texto":"A loja virtual ShopTudo, CNPJ 67.890.123/0001-44, está oferecendo um desconto de 10% em todos os produtos para pagamentos à vista. Um exemplo de oferta é o smartphone modelo X, que de $R 2.999,99 está por $R 2.699,99. Além disso, clientes com CPF 234.567.890-11 cadastrados no site podem ganhar pontos extras no programa de fidelidade ao finalizarem suas compras até o dia 30 deste mês. Mais informações e regulamento da promoção estão disponíveis em www.shoptudo.com/promocao."
+},
+{
+	"id":6,
+	"texto":"A Corporação de Serviços Digitais, CNPJ 78.901.234/0001-55, divulgou seu relatório anual, onde consta um lucro líquido de $R 3.456.789,12. Esse valor é 12% maior em comparação ao ano anterior. Entre os principais contratos fechados está o com a empresa de software, Tecnologia do Futuro S.A., CNPJ 89.012.345/0001-66, no valor de $R 500.000,00 para desenvolvimento de soluções em nuvem. Para acessar o relatório completo, os investidores podem visitar www.corporacaodigital.com.br/relatorios/2024."
+},
+{
+	"id":7,
+	"texto":"Em uma operação financeira recente, Maria Fernandes, CPF 345.678.901-22, investiu $R 100.000,00 em ações da Bolsa de Valores através da corretora InvestFácil, CNPJ 90.123.456/0001-77. O investimento foi dividido em três carteiras distintas, cada uma com foco em um setor diferente do mercado: tecnologia, saúde e energia. A corretora cobra uma taxa de administração de $R 1.000,00 por mês, conforme estipulado no contrato assinado por ambas as partes. Mais detalhes sobre as carteiras de investimento estão disponíveis no portal www.investfacil.com.br/minhacarteira."
+}
+]
