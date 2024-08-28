@@ -119,7 +119,7 @@ if __name__ == '__main__':
     print('Arquivo python com as classes de preprocessamento e representação de textos')
 
     #load data
-    with open('./dados.json', 'r') as f:
+    with open('./dados.json', 'r', encoding='utf-8') as f:
         datajson = json.load(f)
 
     # Preprocessamento
